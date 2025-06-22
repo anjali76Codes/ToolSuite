@@ -19,7 +19,7 @@ const port = process.env.PORT || 5000;
 
 // CORS setup to allow your frontend origin
 const corsOptions = {
-  origin: 'https://tool-suite-8a2qeva9j-anjali76codes-projects.vercel.app', // Replace with your frontend's URL
+  origin: 'https://tool-suite-a.vercel.app', // Replace with your frontend's URL
   methods: ['GET', 'POST', 'PUT', 'DELETE'], // List allowed HTTP methods
   allowedHeaders: ['Content-Type', 'Authorization'], // List allowed headers
   credentials: true, // Allow cookies and other credentials
