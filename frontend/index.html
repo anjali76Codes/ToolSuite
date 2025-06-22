@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en" class="dark"> <!-- or toggle this dynamically via JS -->
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="https://www.devtools.fm/brand-assets/favicon.png" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ToolSuite</title>
+</head>
+<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+<script src="https://unpkg.com/prettier@2.8.8/standalone.js"></script>
+<script src="https://unpkg.com/prettier@2.8.8/parser-html.js"></script>
+<script src="https://unpkg.com/prettier@2.8.8/parser-babel.js"></script>
+<script src="https://unpkg.com/prettier@2.8.8/parser-postcss.js"></script>
+
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/main.jsx">
+    document.documentElement.classList.toggle('dark', isDarkMode);
+  </script>
+
+</body>
+
+</html>

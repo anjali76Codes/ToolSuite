@@ -1,0 +1,89 @@
+{
+    "features": [
+        {
+            "title": "Graphic & Image Tools",
+            "desc": "Convert, edit and generate images and graphics with ease.",
+            "page": "/graphic"
+        },
+        {
+            "title": "Image Converter",
+            "desc": "Convert various image formats seamlessly.",
+            "page": "/image"
+        },
+        {
+            "title": "Color & Palette Tools",
+            "desc": "Pick, adjust, and generate color palettes.",
+            "page": "/graphic"
+        },
+        {
+            "title": "Chat with AI",
+            "desc": "Interact with AI to generate or edit content.",
+            "page": "/graphic"
+        },
+        {
+            "title": "Format Converter",
+            "desc": "Convert between various file formats.",
+            "page": "/format"
+        },
+        {
+            "title": "Code Formatter",
+            "desc": "Beautify and validate your code instantly.",
+            "page": "/format"
+        },
+        {
+            "title": "Code Formatter",
+            "desc": "Instant code formatting and linting.",
+            "page": "/format"
+        },
+        {
+            "title": "API Documentation",
+            "desc": "Access and manage API documentation.",
+            "page": "/api"
+        },
+        {
+            "title": "Password Generator",
+            "desc": "Generate secure passwords for your needs.",
+            "page": "/password"
+        },
+        {
+            "title": "Linux Terminal",
+            "desc": "Access a virtual Linux terminal.",
+            "page": "/terminal"
+        },
+        {
+            "title": "Encryption Tools",
+            "desc": "Encrypt and decrypt your sensitive data.",
+            "page": "/encrypt"
+        },
+        {
+            "title": "Mock Data Generator",
+            "desc": "Generate realistic mock data for testing.",
+            "page": "/mockdata"
+        },
+        {
+            "title": "SQL Query Generator",
+            "desc": "Create SQL queries with ease.",
+            "page": "/query"
+        },
+        {
+            "title": "Community",
+            "desc": "Interact with the community and discuss tools.",
+            "page": "/community"
+        },
+        {
+            "title": "Create Community Post",
+            "desc": "Create posts and share ideas with the community.",
+            "page": "/community/post"
+        },
+        {
+            "title": "SEO & Analytics Dashboard",
+            "desc": "Analyze your site and manage SEO tools.",
+            "page": "/seo"
+        },
+        {
+            "title": "Features Dashboard",
+            "desc": "Manage and track features of your application.",
+            "page": "/dashboard"
+        }
+    ]
+}
